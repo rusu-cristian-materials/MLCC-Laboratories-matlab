@@ -6,9 +6,7 @@ The labs are based on prior source code available that was develop for the MLCC 
 
 Each laboratory contains a solution file. Please do not jump to that immediately but rather use it as a resource when you are stuck.
 
-All source code was tested with the following setup:
-Matlab 2018
-Windows 10 and MacOS Mojave
+All source code was tested with the following setup: Matlab 2018, Windows 10 and MacOS Mojave.
 
 You can download the code locally, but you can also use git. If you are new to using Github please check:
 https://www.tutorialspoint.com/git/
