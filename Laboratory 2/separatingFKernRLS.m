@@ -1,5 +1,5 @@
 function separatingFKernRLS(c, Xtr, Ytr, kernel, sigma, Xts)
-% function separatingFKernRLS(c, Xtr, kernel, sigma, Xts)
+% function separatingFKernRLS(c, Xtr, Ytr, kernel, sigma, Xts)
 % the function classifies points evenly sampled in a visualization area,
 % according to the classifier Regularized Least Squares
 %
